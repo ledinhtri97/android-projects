@@ -1,0 +1,49 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/diy_demo_bg"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tv_points_in_mainactivity"
+        style="@style/TextViewStyle"
+        android:textColor="#149CF3" />
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/btn_get_all"
+                style="@style/BtnDiyStyle"
+                android:text="@string/btn_diy_get_all" />
+
+            <Button
+                android:id="@+id/btn_get_game"
+                style="@style/BtnDiyStyle"
+                android:text="@string/btn_diy_get_game" />
+
+            <Button
+                android:id="@+id/btn_get_app"
+                style="@style/BtnDiyStyle"
+                android:text="@string/btn_diy_get_app" />
+
+            <Button
+                android:id="@+id/btn_get_special_sort"
+                style="@style/BtnDiyStyle"
+                android:text="@string/btn_diy_get_special_list" />
+
+            <Button
+                android:id="@+id/btn_get_extra_task_list"
+                style="@style/BtnDiyStyle"
+                android:text="@string/btn_diy_get_extra_task_list" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

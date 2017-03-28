@@ -1,0 +1,97 @@
+[11-Oct-2016 18:25:48 Etc/GMT] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 32
+[11-Oct-2016 18:26:34 Etc/GMT] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 32
+[11-Oct-2016 18:26:54 Etc/GMT] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 32
+[11-Oct-2016 18:32:26 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 118
+[11-Oct-2016 18:37:07 Etc/GMT] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 38
+[11-Oct-2016 18:37:23 Etc/GMT] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 38
+[11-Oct-2016 18:37:29 Etc/GMT] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 38
+[11-Oct-2016 18:38:44 Etc/GMT] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 36
+[11-Oct-2016 18:38:50 Etc/GMT] PHP Notice:  Undefined variable: stmt in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 120
+[11-Oct-2016 18:38:50 Etc/GMT] PHP Fatal error:  Call to a member function close() on null in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 120
+[11-Oct-2016 18:38:53 Etc/GMT] PHP Notice:  Undefined variable: stmt in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 120
+[11-Oct-2016 18:38:53 Etc/GMT] PHP Fatal error:  Call to a member function close() on null in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 120
+[11-Oct-2016 18:39:12 Etc/GMT] PHP Notice:  Undefined variable: stmt in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 121
+[11-Oct-2016 18:39:12 Etc/GMT] PHP Fatal error:  Call to a member function close() on null in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 121
+[11-Oct-2016 18:39:17 Etc/GMT] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 36
+[11-Oct-2016 18:39:19 Etc/GMT] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 36
+[11-Oct-2016 18:39:25 Etc/GMT] PHP Notice:  Undefined variable: stmt in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 121
+[11-Oct-2016 18:39:25 Etc/GMT] PHP Fatal error:  Call to a member function close() on null in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 121
+[11-Oct-2016 18:44:19 Etc/GMT] PHP Notice:  Undefined variable: stmt in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 111
+[11-Oct-2016 18:44:19 Etc/GMT] PHP Fatal error:  Call to a member function close() on null in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 111
+[11-Oct-2016 18:44:26 Etc/GMT] PHP Notice:  Undefined variable: total_records_paging in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 53
+[11-Oct-2016 18:44:26 Etc/GMT] PHP Warning:  mysqli_stmt::close(): invalid object or resource mysqli_stmt
+ in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 111
+[11-Oct-2016 18:44:33 Etc/GMT] PHP Notice:  Undefined variable: total_records_paging in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 53
+[11-Oct-2016 18:44:33 Etc/GMT] PHP Warning:  mysqli_stmt::close(): invalid object or resource mysqli_stmt
+ in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 111
+[11-Oct-2016 18:44:39 Etc/GMT] PHP Notice:  Undefined variable: total_records_paging in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 53
+[11-Oct-2016 18:44:39 Etc/GMT] PHP Warning:  mysqli_stmt::close(): invalid object or resource mysqli_stmt
+ in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 111
+[11-Oct-2016 18:44:42 Etc/GMT] PHP Notice:  Undefined variable: total_records_paging in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 53
+[11-Oct-2016 18:44:42 Etc/GMT] PHP Warning:  mysqli_stmt::close(): invalid object or resource mysqli_stmt
+ in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 111
+[11-Oct-2016 18:45:06 Etc/GMT] PHP Notice:  Undefined variable: total_records_paging in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 53
+[11-Oct-2016 18:45:06 Etc/GMT] PHP Warning:  mysqli_stmt::close(): invalid object or resource mysqli_stmt
+ in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 111
+[11-Oct-2016 18:46:32 Etc/GMT] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 35
+[11-Oct-2016 18:46:50 Etc/GMT] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 35
+[11-Oct-2016 18:46:57 Etc/GMT] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 35
+[11-Oct-2016 18:47:01 Etc/GMT] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 35
+[11-Oct-2016 18:47:05 Etc/GMT] PHP Notice:  Undefined variable: stmt in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 110
+[11-Oct-2016 18:47:05 Etc/GMT] PHP Fatal error:  Call to a member function close() on null in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 110
+[11-Oct-2016 18:48:23 Etc/GMT] PHP Notice:  Undefined variable: stmt in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 111
+[11-Oct-2016 18:48:23 Etc/GMT] PHP Fatal error:  Call to a member function close() on null in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 111
+[11-Oct-2016 18:48:29 Etc/GMT] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 36
+[11-Oct-2016 18:48:29 Etc/GMT] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 45
+[11-Oct-2016 18:48:34 Etc/GMT] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 36
+[11-Oct-2016 18:48:34 Etc/GMT] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 45
+[11-Oct-2016 18:48:51 Etc/GMT] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 35
+[11-Oct-2016 18:48:51 Etc/GMT] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 44
+[11-Oct-2016 18:48:54 Etc/GMT] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 35
+[11-Oct-2016 18:48:54 Etc/GMT] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 44
+[11-Oct-2016 18:49:13 Etc/GMT] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 35
+[11-Oct-2016 18:49:18 Etc/GMT] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 35
+[11-Oct-2016 18:49:22 Etc/GMT] PHP Notice:  Undefined variable: stmt in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 110
+[11-Oct-2016 18:49:22 Etc/GMT] PHP Fatal error:  Call to a member function close() on null in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 110
+[11-Oct-2016 18:50:39 Etc/GMT] PHP Notice:  Undefined variable: stmt in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 110
+[11-Oct-2016 18:50:39 Etc/GMT] PHP Fatal error:  Call to a member function close() on null in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 110
+[11-Oct-2016 18:50:44 Etc/GMT] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 35
+[11-Oct-2016 18:51:19 Etc/GMT] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 35
+[11-Oct-2016 18:51:23 Etc/GMT] PHP Notice:  Undefined variable: stmt in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 110
+[11-Oct-2016 18:51:23 Etc/GMT] PHP Fatal error:  Call to a member function close() on null in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 110
+[11-Oct-2016 18:51:30 Etc/GMT] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 35
+[11-Oct-2016 18:51:34 Etc/GMT] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 35
+[11-Oct-2016 18:51:42 Etc/GMT] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/oxywelqx/public_html/droid/pocket/get/tracker.php on line 35
+[12-Oct-2016 12:25:38 Etc/GMT] PHP Notice:  Undefined index: u in /home/oxywelqx/public_html/droid/pocket/get/token.php on line 8
+[12-Oct-2016 12:25:41 Etc/GMT] PHP Notice:  Undefined index: u in /home/oxywelqx/public_html/droid/pocket/get/token.php on line 8
+[12-Oct-2016 16:50:18 Etc/GMT] PHP Notice:  Undefined index: sate in /home/oxywelqx/public_html/droid/pocket/get/test.php on line 10
+[12-Oct-2016 16:50:21 Etc/GMT] PHP Notice:  Undefined index: sate in /home/oxywelqx/public_html/droid/pocket/get/test.php on line 10
+[12-Oct-2016 16:52:32 Etc/GMT] PHP Notice:  Use of undefined constant check1 - assumed 'check1' in /home/oxywelqx/public_html/droid/pocket/get/test.php on line 14
+[12-Oct-2016 16:52:32 Etc/GMT] PHP Fatal error:  Call to undefined function CURRENT_DATE() in /home/oxywelqx/public_html/droid/pocket/get/test.php on line 14
+[12-Oct-2016 16:52:49 Etc/GMT] PHP Fatal error:  Call to undefined function CURRENT_DATE() in /home/oxywelqx/public_html/droid/pocket/get/test.php on line 14
+[12-Oct-2016 16:53:23 Etc/GMT] PHP Fatal error:  Call to undefined function CURRENT_DATE() in /home/oxywelqx/public_html/droid/pocket/get/test.php on line 14
+[12-Oct-2016 16:53:52 Etc/GMT] PHP Warning:  Unterminated comment starting line 13 in /home/oxywelqx/public_html/droid/pocket/get/test.php on line 13
+[12-Oct-2016 16:54:04 Etc/GMT] PHP Warning:  Unterminated comment starting line 14 in /home/oxywelqx/public_html/droid/pocket/get/test.php on line 14
+[12-Oct-2016 16:54:04 Etc/GMT] PHP Fatal error:  Call to undefined function CURRENT_DATE() in /home/oxywelqx/public_html/droid/pocket/get/test.php on line 12
+[12-Oct-2016 16:54:31 Etc/GMT] PHP Warning:  Unterminated comment starting line 15 in /home/oxywelqx/public_html/droid/pocket/get/test.php on line 15
+[12-Oct-2016 16:54:42 Etc/GMT] PHP Warning:  Unterminated comment starting line 15 in /home/oxywelqx/public_html/droid/pocket/get/test.php on line 15
+[12-Oct-2016 16:54:42 Etc/GMT] PHP Fatal error:  Call to undefined function CURRENT_DATE() in /home/oxywelqx/public_html/droid/pocket/get/test.php on line 12
+[12-Oct-2016 16:56:01 Etc/GMT] PHP Warning:  Unterminated comment starting line 15 in /home/oxywelqx/public_html/droid/pocket/get/test.php on line 15
+[12-Oct-2016 16:56:01 Etc/GMT] PHP Notice:  Use of undefined constant y - assumed 'y' in /home/oxywelqx/public_html/droid/pocket/get/test.php on line 12
+[12-Oct-2016 16:56:01 Etc/GMT] PHP Notice:  Use of undefined constant m - assumed 'm' in /home/oxywelqx/public_html/droid/pocket/get/test.php on line 12
+[12-Oct-2016 16:56:01 Etc/GMT] PHP Notice:  Use of undefined constant d - assumed 'd' in /home/oxywelqx/public_html/droid/pocket/get/test.php on line 12
+[12-Oct-2016 16:56:03 Etc/GMT] PHP Warning:  Unterminated comment starting line 15 in /home/oxywelqx/public_html/droid/pocket/get/test.php on line 15
+[12-Oct-2016 16:56:03 Etc/GMT] PHP Notice:  Use of undefined constant y - assumed 'y' in /home/oxywelqx/public_html/droid/pocket/get/test.php on line 12
+[12-Oct-2016 16:56:03 Etc/GMT] PHP Notice:  Use of undefined constant m - assumed 'm' in /home/oxywelqx/public_html/droid/pocket/get/test.php on line 12
+[12-Oct-2016 16:56:03 Etc/GMT] PHP Notice:  Use of undefined constant d - assumed 'd' in /home/oxywelqx/public_html/droid/pocket/get/test.php on line 12
+[12-Oct-2016 16:56:15 Etc/GMT] PHP Warning:  Unterminated comment starting line 15 in /home/oxywelqx/public_html/droid/pocket/get/test.php on line 15
+[12-Oct-2016 16:56:15 Etc/GMT] PHP Notice:  Use of undefined constant y - assumed 'y' in /home/oxywelqx/public_html/droid/pocket/get/test.php on line 12
+[12-Oct-2016 16:56:15 Etc/GMT] PHP Notice:  Use of undefined constant m - assumed 'm' in /home/oxywelqx/public_html/droid/pocket/get/test.php on line 12
+[12-Oct-2016 16:56:15 Etc/GMT] PHP Notice:  Use of undefined constant d - assumed 'd' in /home/oxywelqx/public_html/droid/pocket/get/test.php on line 12
+[12-Oct-2016 16:56:59 Etc/GMT] PHP Warning:  Unterminated comment starting line 15 in /home/oxywelqx/public_html/droid/pocket/get/test.php on line 15
+[12-Oct-2016 16:57:11 Etc/GMT] PHP Warning:  Unterminated comment starting line 15 in /home/oxywelqx/public_html/droid/pocket/get/test.php on line 15
+[12-Oct-2016 16:57:29 Etc/GMT] PHP Warning:  Unterminated comment starting line 15 in /home/oxywelqx/public_html/droid/pocket/get/test.php on line 15
+[12-Oct-2016 16:57:38 Etc/GMT] PHP Warning:  Unterminated comment starting line 15 in /home/oxywelqx/public_html/droid/pocket/get/test.php on line 15
+[12-Oct-2016 16:59:11 Etc/GMT] PHP Notice:  Undefined index: date in /home/oxywelqx/public_html/droid/pocket/get/test.php on line 10
+[12-Oct-2016 19:13:44 Etc/GMT] PHP Fatal error:  Call to undefined function intern() in /home/oxywelqx/public_html/droid/pocket/get/test.php on line 21
+[12-Oct-2016 19:18:48 Etc/GMT] PHP Fatal error:  Call to undefined function CURRENT_DATE() in /home/oxywelqx/public_html/droid/pocket/get/test.php on line 6

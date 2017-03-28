@@ -1,0 +1,13 @@
+<resources>
+    //day la file dinh nghia noi dung hien thi tren giao dien.
+    <string name="app_name">LearnCreateProjectAndroid</string>
+    <string-array name="arrDate">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+</resources>

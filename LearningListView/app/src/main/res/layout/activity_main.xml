@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="io.github.ledinhtri97.learninglistview.MainActivity"
+    android:weightSum="1">
+
+    <ListView
+        android:id="@+id/lvDate"
+        android:layout_width="match_parent"
+        android:layout_height="132dp"
+        android:layout_weight="0.13"
+        android:listSelector="@android:color/darker_gray" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.06"
+        android:background="@android:color/holo_blue_light"
+        android:gravity="center_vertical"
+        android:text="Enter Your Name"
+        android:textAlignment="center"
+        android:textColor="@android:color/background_light"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/txtName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.03"
+        android:ems="10"
+        android:hint="Type Here"
+        android:inputType="textPersonName" />
+
+    <Button
+        android:id="@+id/btnSave"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="0.02"
+        android:text="Save" />
+
+    <ListView
+        android:id="@+id/lvName"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_weight="0.29"
+        android:background="@android:color/background_light"
+        android:listSelector="@android:color/holo_orange_light" />
+
+</LinearLayout>

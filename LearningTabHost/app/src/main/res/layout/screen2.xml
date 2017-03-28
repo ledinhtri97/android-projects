@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:ignore="UselessParent">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:ignore="UselessLeaf">
+
+            <TextView
+                android:id="@+id/txtYourAnswer"
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="Your Answer"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:id="@+id/txtRightAnswer"
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="Right Answer"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                tools:ignore="DuplicateIds,HardcodedText" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:ignore="UselessLeaf">
+
+            <TextView
+                android:id="@+id/txt1_"
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:textAlignment="center"
+                android:textSize="24sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:id="@+id/txtkq1_"
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:textAlignment="center"
+                android:textSize="24sp"
+                tools:ignore="HardcodedText" />
+
+            <CheckBox
+                android:id="@+id/ck1"
+                style="@style/my_checkbox_style"
+                android:layout_width="150dp"
+                android:layout_height="match_parent"
+                android:background="#fff"
+                android:editable="false"
+                android:enabled="false"
+                android:maxLines="1"
+                android:text="Corrected"
+                android:textSize="16sp"
+                tools:ignore="Deprecated,HardcodedText,TextViewEdits" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:ignore="UselessLeaf">
+
+            <TextView
+                android:id="@+id/txt2_"
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:textAlignment="center"
+                android:textSize="24sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:id="@+id/txtkq2_"
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:textAlignment="center"
+                android:textSize="24sp"
+                tools:ignore="HardcodedText" />
+
+            <CheckBox
+                android:id="@+id/ck2"
+                style="@style/my_checkbox_style"
+                android:layout_width="150dp"
+                android:layout_height="match_parent"
+                android:background="#fff"
+                android:enabled="false"
+                android:text="Corrected "
+                android:textSize="16sp"
+                tools:ignore="Deprecated,HardcodedText,TextViewEdits" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:ignore="UselessLeaf">
+
+            <TextView
+                android:id="@+id/txt3_"
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:textAlignment="center"
+                android:textSize="24sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:id="@+id/txtkq3_"
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:textAlignment="center"
+                android:textSize="24sp"
+                tools:ignore="HardcodedText" />
+
+            <CheckBox
+                android:id="@+id/ck3"
+                style="@style/my_checkbox_style"
+                android:layout_width="150dp"
+                android:layout_height="match_parent"
+                android:background="#fff"
+                android:enabled="false"
+                android:text="Corrected "
+                android:textSize="16sp"
+                tools:ignore="Deprecated,HardcodedText,TextViewEdits" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:ignore="UselessLeaf">
+
+            <TextView
+                android:id="@+id/txt4_"
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:textAlignment="center"
+                android:textSize="24sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:id="@+id/txtkq4_"
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:textAlignment="center"
+                android:textSize="24sp"
+                tools:ignore="HardcodedText" />
+
+            <CheckBox
+                android:id="@+id/ck4"
+                style="@style/my_checkbox_style"
+                android:layout_width="150dp"
+                android:layout_height="match_parent"
+                android:background="#fff"
+                android:enabled="false"
+                android:text="Corrected "
+                android:textSize="16sp"
+                tools:ignore="Deprecated,HardcodedText,TextViewEdits" />
+
+        </TableRow>
+
+    </TableLayout>
+
+</LinearLayout>

@@ -1,0 +1,63 @@
+String DATABASE_NAME = "dbContact.sqlite";
+    String DB_PATH_SUFFIX = "/databases/";
+    SQLiteDatabase database = null;
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+
+        handleCopyDatabasesAssetsToSystem();
+
+        addControls();
+        addEvents();
+    }
+
+    private void handleCopyDatabasesAssetsToSystem() {
+        File dbFile = getDatabasePath(DATABASE_NAME);
+        if(!dbFile.exists()) {
+            try {
+                CopyDataBaseFromAssets();
+                Toast.makeText(MainActivity.this,
+                        "Copy success from Assets folder", Toast.LENGTH_LONG).show();
+            }catch (Exception e){
+                Toast.makeText(MainActivity.this, e.toString(), Toast.LENGTH_LONG).show();
+            }
+        }
+
+    }
+
+    private void CopyDataBaseFromAssets() {
+        try {
+            InputStream myInput = getAssets().open(DATABASE_NAME);
+
+            //Path tao mot db trong,
+            String outPutPath =  getDatabasePath();
+
+            //neu path file chua ton tai thi tao ra
+            File f = new File(getApplicationInfo().dataDir + DB_PATH_SUFFIX);
+            if(!f.exists())
+                f.mkdir();
+
+            OutputStream myOutput = new FileOutputStream(outPutPath);
+
+            //lay du lieu tu input qua out put;
+            byte[] buffer = new byte[1024];
+            int length;
+            while ((length = myInput.read(buffer)) > 0) {
+                myOutput.write(buffer, 0, length);
+            }
+
+            //dong myoutput, myinput
+            myOutput.flush();
+            myOutput.close();
+            myInput.close();
+
+        }catch (Exception e){
+            Log.e("Errors: ", e.toString());
+        }
+    }
+
+    private String getDatabasePath(){
+        return getApplicationInfo().dataDir + DB_PATH_SUFFIX + DATABASE_NAME;
+    }

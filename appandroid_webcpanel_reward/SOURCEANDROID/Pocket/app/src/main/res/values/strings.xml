@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pocket v1.4</string>
+
+    <string name="text_current_points">Points : </string>
+
+
+    <!--  ============== Push Notifications  =============  -->
+
+    <!--  ============== OneSignal.com  =============  -->
+
+    <!-- str:  before project number is cumpulsory for One signal-->
+    <string name="google_api_sender_id" translatable="false">str:330906753339</string>
+
+    <string name="onesignal_app_id" translatable="false">a632d82b-8af8-4e95-aa2b-af9a87572520</string>
+
+    <!--  ==============   About Content =============  -->
+    <string name="version">Version 1.4</string>
+    <string name="email">droid@oxywebs.com</string>
+
+    <!--  ============== Login And SignUp  =============  -->
+     <string name="settings_file">account</string>
+    <string name="settings_account_id">account_id</string>
+    <string name="settings_account_username">account_username</string>
+    <string name="settings_account_access_token">access_token</string>
+
+    <string name="msg_loading">Please wait...</string>
+    <string name="msg_network_error">Please check your Internet connection</string>
+    <string name="msg_account_blocked">This account is blocked by a moderator.</string>
+    <string name="msg_no_such_user_in_bd">No such user in database</string>
+    <string name="msg_password_reset_link_sent">A message with link to reset your password has been sent to your email.</string>
+
+    <string name="action_login">Log in</string>
+    <string name="action_signup">Sign up</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_continue">Continue</string>
+    <string name="action_forgot_password">Forgot password?</string>
+
+    <string name="placeholder_password">Password</string>
+    <string name="placeholder_login">Username</string>
+    <string name="placeholder_fullname">Fullname</string>
+    <string name="placeholder_email">Email</string>
+
+    <string name="error_field_empty">Required fields are empty</string>
+    <string name="error_wrong_format">Wrong format</string>
+    <string name="error_signin">Incorrect username or password</string>
+    <string name="error_login_taken">Username is already taken</string>
+    <string name="error_email_taken">User with this mail is already</string>
+    <string name="error_password">Invalid password.</string>
+    <string name="error_email">Email invalid.</string>
+    <string name="error_internet_connection">No internet connection</string>
+    <string name="error_data_loading">When loading data error has occurred. Check your network connection.</string>
+    <string name="error_small_password">Minimum 6 characters</string>
+    <string name="error_small_username">Minimum 5 characters</string>
+
+    <string name="title_activity_login">Log In</string>
+    <string name="title_activity_sign_up">Sign Up</string>
+    <string name="title_activity_main">General</string>
+
+    <string name="initializing">Initializing</string>
+    <string name="show">Show</string>
+    <string name="load">Load</string>
+    <string name="rv">Rewarded Video</string>
+    <string name="ow">Offerwall</string>
+    <string name="is">Interstitial</string>
+    <string name="rewarded_dialog_header">Video Rewarded</string>
+    <string name="rewarded_dialog_message">You have been rewarded</string>
+    <string name="rvButtonState">rvButtonState</string>
+    <string name="isButtonState">isButtonState</string>
+    <string name="owButtonState">owButtonState</string>
+
+	
+</resources>

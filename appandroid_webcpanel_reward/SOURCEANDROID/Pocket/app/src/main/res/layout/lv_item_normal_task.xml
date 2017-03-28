@@ -1,0 +1,87 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:descendantFocusability="blocksDescendants"
+    android:paddingBottom="10dp"
+    android:paddingLeft="5dp"
+    android:paddingRight="5dp"
+    android:paddingTop="10dp" >
+
+    <Button
+        android:id="@+id/lvitem_btn_download"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="3dp"
+        android:padding="5dp"
+        android:background="@drawable/btn_round_rectangle_bg"
+        android:textSize="14sp" />
+
+    <LinearLayout
+        android:id="@+id/lvitem_right_area"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toLeftOf="@+id/lvitem_btn_download"
+        android:gravity="center_vertical"
+        android:orientation="vertical"
+        android:padding="3dp" >
+
+        <TextView
+            android:id="@+id/lvitem_tv_adpoints"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#399A00"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/lvitem_tv_appstatus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:textColor="#A0BEDD"
+            android:textSize="12sp" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/lvitem_iv_appicon"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="5dp"
+        android:contentDescription="appicon"
+        android:src="@drawable/icon" />
+
+    <TextView
+        android:id="@+id/lvitem_tv_appname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toLeftOf="@id/lvitem_right_area"
+        android:layout_toRightOf="@id/lvitem_iv_appicon"
+        android:textColor="#149CF3"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/lvitem_tv_appslogan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/lvitem_tv_appname"
+        android:layout_toLeftOf="@id/lvitem_right_area"
+        android:layout_toRightOf="@id/lvitem_iv_appicon"
+        android:singleLine="false"
+        android:textColor="#32CD32"
+        android:textSize="14sp" />
+
+    <ProgressBar
+        android:id="@+id/lvitem_pb_download"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/lvitem_tv_appslogan"
+        android:layout_toLeftOf="@id/lvitem_right_area"
+        android:layout_toRightOf="@id/lvitem_iv_appicon" />
+
+</RelativeLayout>

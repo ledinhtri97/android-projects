@@ -1,0 +1,5 @@
+<root>
+    <item name='android.app.AlertDialog THEME_DEVICE_DEFAULT_DARK'>
+        <annotation name='android.support.annotation.NonNull' />
+    </item>
+</root>

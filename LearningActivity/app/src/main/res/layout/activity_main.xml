@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="io.github.ledinhtri97.learningactivity.MainActivity">
+
+    <Button
+        android:id="@+id/btnFullScreen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Full Screen"
+        android:onClick="handleFullScreen"
+        tools:ignore="HardcodedText" />
+
+    <Button
+        android:id="@+id/btnHaftScreen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Haft Screen"
+        android:onClick="handleHaftScreen"
+        tools:ignore="HardcodedText" />
+</LinearLayout>

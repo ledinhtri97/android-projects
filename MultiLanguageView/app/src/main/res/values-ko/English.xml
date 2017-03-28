@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="spring">봄</string>
+    <string name="summer">여름</string>
+    <string name="autumn">가을</string>
+    <string name="winter">겨울</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="spring">spring</string>
+    <string name="summer">summer</string>
+    <string name="autumn">autumn</string>
+    <string name="winter">winter</string>
+</resources>

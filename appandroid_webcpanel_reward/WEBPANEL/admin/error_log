@@ -1,0 +1,302 @@
+[25-Aug-2016 16:59:41 Etc/GMT] PHP Warning:  include_once(connect_database.php): failed to open stream: No such file or directory in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 12
+[25-Aug-2016 16:59:41 Etc/GMT] PHP Warning:  include_once(): Failed opening 'connect_database.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 12
+[25-Aug-2016 16:59:41 Etc/GMT] PHP Notice:  Undefined variable: APP_NAME in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 22
+[25-Aug-2016 16:59:41 Etc/GMT] PHP Notice:  Undefined variable: APP_TITLE in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 23
+[25-Aug-2016 16:59:41 Etc/GMT] PHP Notice:  Undefined variable: APP_HOST in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 27
+[25-Aug-2016 16:59:41 Etc/GMT] PHP Notice:  Undefined variable: Server_URL in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 28
+[25-Aug-2016 16:59:41 Etc/GMT] PHP Notice:  Undefined variable: Google_Play_Link in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 29
+[25-Aug-2016 16:59:41 Etc/GMT] PHP Notice:  Undefined variable: Company_URL in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 33
+[25-Aug-2016 16:59:41 Etc/GMT] PHP Notice:  Undefined variable: SMTP_AUTH in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 37
+[25-Aug-2016 16:59:41 Etc/GMT] PHP Notice:  Undefined variable: SMTP_SECURE in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 38
+[25-Aug-2016 16:59:41 Etc/GMT] PHP Notice:  Undefined variable: SMTP_PORT in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 39
+[25-Aug-2016 16:59:41 Etc/GMT] PHP Notice:  Undefined variable: SMTP_EMAIL in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 40
+[25-Aug-2016 16:59:41 Etc/GMT] PHP Notice:  Undefined variable: SMTP_USERNAME in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 41
+[25-Aug-2016 16:59:41 Etc/GMT] PHP Notice:  Undefined variable: SMTP_PASSWORD in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 42
+[25-Aug-2016 17:02:10 Etc/GMT] PHP Warning:  include_once(connect_database.php): failed to open stream: No such file or directory in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 12
+[25-Aug-2016 17:02:10 Etc/GMT] PHP Warning:  include_once(): Failed opening 'connect_database.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 12
+[25-Aug-2016 17:02:10 Etc/GMT] PHP Notice:  Undefined variable: APP_NAME in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 22
+[25-Aug-2016 17:02:10 Etc/GMT] PHP Notice:  Undefined variable: APP_TITLE in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 23
+[25-Aug-2016 17:02:10 Etc/GMT] PHP Notice:  Undefined variable: APP_HOST in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 27
+[25-Aug-2016 17:02:10 Etc/GMT] PHP Notice:  Undefined variable: Server_URL in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 28
+[25-Aug-2016 17:02:10 Etc/GMT] PHP Notice:  Undefined variable: Google_Play_Link in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 29
+[25-Aug-2016 17:02:10 Etc/GMT] PHP Notice:  Undefined variable: Company_URL in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 33
+[25-Aug-2016 17:02:10 Etc/GMT] PHP Notice:  Undefined variable: SMTP_AUTH in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 37
+[25-Aug-2016 17:02:10 Etc/GMT] PHP Notice:  Undefined variable: SMTP_SECURE in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 38
+[25-Aug-2016 17:02:10 Etc/GMT] PHP Notice:  Undefined variable: SMTP_PORT in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 39
+[25-Aug-2016 17:02:10 Etc/GMT] PHP Notice:  Undefined variable: SMTP_EMAIL in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 40
+[25-Aug-2016 17:02:10 Etc/GMT] PHP Notice:  Undefined variable: SMTP_USERNAME in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 41
+[25-Aug-2016 17:02:10 Etc/GMT] PHP Notice:  Undefined variable: SMTP_PASSWORD in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 42
+[25-Aug-2016 17:02:10 Etc/GMT] PHP Notice:  Undefined variable: host in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 46
+[25-Aug-2016 17:02:10 Etc/GMT] PHP Notice:  Undefined variable: user in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 47
+[25-Aug-2016 17:02:10 Etc/GMT] PHP Notice:  Undefined variable: pass in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 48
+[25-Aug-2016 17:02:10 Etc/GMT] PHP Notice:  Undefined variable: database in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 49
+[25-Aug-2016 17:02:10 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'oxywelqx'@'localhost' (using password: NO)' in /home/oxywelqx/public_html/droid/pocket/core/init.inc.php:29
+Stack trace:
+#0 /home/oxywelqx/public_html/droid/pocket/core/init.inc.php(29): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /home/oxywelqx/public_html/droid/pocket/admin/login.php(12): include_once('/home/oxywelqx/...')
+#2 {main}
+  thrown in /home/oxywelqx/public_html/droid/pocket/core/init.inc.php on line 29
+[25-Aug-2016 17:02:47 Etc/GMT] PHP Warning:  include_once(connect_database.php): failed to open stream: No such file or directory in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 12
+[25-Aug-2016 17:02:47 Etc/GMT] PHP Warning:  include_once(): Failed opening 'connect_database.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 12
+[25-Aug-2016 17:02:47 Etc/GMT] PHP Notice:  Undefined variable: APP_NAME in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 22
+[25-Aug-2016 17:02:47 Etc/GMT] PHP Notice:  Undefined variable: APP_TITLE in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 23
+[25-Aug-2016 17:02:47 Etc/GMT] PHP Notice:  Undefined variable: APP_HOST in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 27
+[25-Aug-2016 17:02:47 Etc/GMT] PHP Notice:  Undefined variable: Server_URL in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 28
+[25-Aug-2016 17:02:47 Etc/GMT] PHP Notice:  Undefined variable: Google_Play_Link in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 29
+[25-Aug-2016 17:02:47 Etc/GMT] PHP Notice:  Undefined variable: Company_URL in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 33
+[25-Aug-2016 17:02:47 Etc/GMT] PHP Notice:  Undefined variable: SMTP_AUTH in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 37
+[25-Aug-2016 17:02:47 Etc/GMT] PHP Notice:  Undefined variable: SMTP_SECURE in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 38
+[25-Aug-2016 17:02:47 Etc/GMT] PHP Notice:  Undefined variable: SMTP_PORT in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 39
+[25-Aug-2016 17:02:47 Etc/GMT] PHP Notice:  Undefined variable: SMTP_EMAIL in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 40
+[25-Aug-2016 17:02:47 Etc/GMT] PHP Notice:  Undefined variable: SMTP_USERNAME in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 41
+[25-Aug-2016 17:02:47 Etc/GMT] PHP Notice:  Undefined variable: SMTP_PASSWORD in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 42
+[25-Aug-2016 17:02:47 Etc/GMT] PHP Notice:  Undefined variable: host in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 46
+[25-Aug-2016 17:02:47 Etc/GMT] PHP Notice:  Undefined variable: user in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 47
+[25-Aug-2016 17:02:47 Etc/GMT] PHP Notice:  Undefined variable: pass in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 48
+[25-Aug-2016 17:02:47 Etc/GMT] PHP Notice:  Undefined variable: database in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 49
+[25-Aug-2016 17:02:47 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'oxywelqx'@'localhost' (using password: NO)' in /home/oxywelqx/public_html/droid/pocket/core/init.inc.php:29
+Stack trace:
+#0 /home/oxywelqx/public_html/droid/pocket/core/init.inc.php(29): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /home/oxywelqx/public_html/droid/pocket/admin/login.php(12): include_once('/home/oxywelqx/...')
+#2 {main}
+  thrown in /home/oxywelqx/public_html/droid/pocket/core/init.inc.php on line 29
+[25-Aug-2016 17:02:54 Etc/GMT] PHP Warning:  include_once(connect_database.php): failed to open stream: No such file or directory in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 12
+[25-Aug-2016 17:02:54 Etc/GMT] PHP Warning:  include_once(): Failed opening 'connect_database.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 12
+[25-Aug-2016 17:02:54 Etc/GMT] PHP Notice:  Undefined variable: APP_NAME in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 22
+[25-Aug-2016 17:02:54 Etc/GMT] PHP Notice:  Undefined variable: APP_TITLE in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 23
+[25-Aug-2016 17:02:54 Etc/GMT] PHP Notice:  Undefined variable: APP_HOST in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 27
+[25-Aug-2016 17:02:54 Etc/GMT] PHP Notice:  Undefined variable: Server_URL in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 28
+[25-Aug-2016 17:02:54 Etc/GMT] PHP Notice:  Undefined variable: Google_Play_Link in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 29
+[25-Aug-2016 17:02:54 Etc/GMT] PHP Notice:  Undefined variable: Company_URL in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 33
+[25-Aug-2016 17:02:54 Etc/GMT] PHP Notice:  Undefined variable: SMTP_AUTH in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 37
+[25-Aug-2016 17:02:54 Etc/GMT] PHP Notice:  Undefined variable: SMTP_SECURE in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 38
+[25-Aug-2016 17:02:54 Etc/GMT] PHP Notice:  Undefined variable: SMTP_PORT in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 39
+[25-Aug-2016 17:02:54 Etc/GMT] PHP Notice:  Undefined variable: SMTP_EMAIL in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 40
+[25-Aug-2016 17:02:54 Etc/GMT] PHP Notice:  Undefined variable: SMTP_USERNAME in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 41
+[25-Aug-2016 17:02:54 Etc/GMT] PHP Notice:  Undefined variable: SMTP_PASSWORD in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 42
+[25-Aug-2016 17:02:54 Etc/GMT] PHP Notice:  Undefined variable: host in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 46
+[25-Aug-2016 17:02:54 Etc/GMT] PHP Notice:  Undefined variable: user in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 47
+[25-Aug-2016 17:02:54 Etc/GMT] PHP Notice:  Undefined variable: pass in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 48
+[25-Aug-2016 17:02:54 Etc/GMT] PHP Notice:  Undefined variable: database in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 49
+[25-Aug-2016 17:02:54 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'oxywelqx'@'localhost' (using password: NO)' in /home/oxywelqx/public_html/droid/pocket/core/init.inc.php:29
+Stack trace:
+#0 /home/oxywelqx/public_html/droid/pocket/core/init.inc.php(29): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /home/oxywelqx/public_html/droid/pocket/admin/login.php(12): include_once('/home/oxywelqx/...')
+#2 {main}
+  thrown in /home/oxywelqx/public_html/droid/pocket/core/init.inc.php on line 29
+[25-Aug-2016 17:03:34 Etc/GMT] PHP Warning:  include_once(connect_database.php): failed to open stream: No such file or directory in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 12
+[25-Aug-2016 17:03:34 Etc/GMT] PHP Warning:  include_once(): Failed opening 'connect_database.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 12
+[25-Aug-2016 17:03:34 Etc/GMT] PHP Notice:  Undefined variable: APP_NAME in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 22
+[25-Aug-2016 17:03:34 Etc/GMT] PHP Notice:  Undefined variable: APP_TITLE in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 23
+[25-Aug-2016 17:03:34 Etc/GMT] PHP Notice:  Undefined variable: APP_HOST in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 27
+[25-Aug-2016 17:03:34 Etc/GMT] PHP Notice:  Undefined variable: Server_URL in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 28
+[25-Aug-2016 17:03:34 Etc/GMT] PHP Notice:  Undefined variable: Google_Play_Link in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 29
+[25-Aug-2016 17:03:34 Etc/GMT] PHP Notice:  Undefined variable: Company_URL in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 33
+[25-Aug-2016 17:03:34 Etc/GMT] PHP Notice:  Undefined variable: SMTP_AUTH in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 37
+[25-Aug-2016 17:03:34 Etc/GMT] PHP Notice:  Undefined variable: SMTP_SECURE in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 38
+[25-Aug-2016 17:03:34 Etc/GMT] PHP Notice:  Undefined variable: SMTP_PORT in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 39
+[25-Aug-2016 17:03:34 Etc/GMT] PHP Notice:  Undefined variable: SMTP_EMAIL in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 40
+[25-Aug-2016 17:03:34 Etc/GMT] PHP Notice:  Undefined variable: SMTP_USERNAME in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 41
+[25-Aug-2016 17:03:34 Etc/GMT] PHP Notice:  Undefined variable: SMTP_PASSWORD in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 42
+[25-Aug-2016 17:03:34 Etc/GMT] PHP Notice:  Undefined variable: host in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 46
+[25-Aug-2016 17:03:34 Etc/GMT] PHP Notice:  Undefined variable: user in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 47
+[25-Aug-2016 17:03:34 Etc/GMT] PHP Notice:  Undefined variable: pass in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 48
+[25-Aug-2016 17:03:34 Etc/GMT] PHP Notice:  Undefined variable: database in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 49
+[25-Aug-2016 17:03:34 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'oxywelqx'@'localhost' (using password: NO)' in /home/oxywelqx/public_html/droid/pocket/core/init.inc.php:29
+Stack trace:
+#0 /home/oxywelqx/public_html/droid/pocket/core/init.inc.php(29): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /home/oxywelqx/public_html/droid/pocket/admin/login.php(12): include_once('/home/oxywelqx/...')
+#2 {main}
+  thrown in /home/oxywelqx/public_html/droid/pocket/core/init.inc.php on line 29
+[25-Aug-2016 17:04:15 Etc/GMT] PHP Warning:  include_once(connect_database.php): failed to open stream: No such file or directory in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 12
+[25-Aug-2016 17:04:15 Etc/GMT] PHP Warning:  include_once(): Failed opening 'connect_database.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 12
+[25-Aug-2016 17:04:15 Etc/GMT] PHP Notice:  Undefined variable: APP_NAME in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 22
+[25-Aug-2016 17:04:15 Etc/GMT] PHP Notice:  Undefined variable: APP_TITLE in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 23
+[25-Aug-2016 17:04:15 Etc/GMT] PHP Notice:  Undefined variable: APP_HOST in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 27
+[25-Aug-2016 17:04:15 Etc/GMT] PHP Notice:  Undefined variable: Server_URL in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 28
+[25-Aug-2016 17:04:15 Etc/GMT] PHP Notice:  Undefined variable: Google_Play_Link in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 29
+[25-Aug-2016 17:04:15 Etc/GMT] PHP Notice:  Undefined variable: Company_URL in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 33
+[25-Aug-2016 17:04:15 Etc/GMT] PHP Notice:  Undefined variable: SMTP_AUTH in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 37
+[25-Aug-2016 17:04:15 Etc/GMT] PHP Notice:  Undefined variable: SMTP_SECURE in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 38
+[25-Aug-2016 17:04:15 Etc/GMT] PHP Notice:  Undefined variable: SMTP_PORT in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 39
+[25-Aug-2016 17:04:15 Etc/GMT] PHP Notice:  Undefined variable: SMTP_EMAIL in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 40
+[25-Aug-2016 17:04:15 Etc/GMT] PHP Notice:  Undefined variable: SMTP_USERNAME in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 41
+[25-Aug-2016 17:04:15 Etc/GMT] PHP Notice:  Undefined variable: SMTP_PASSWORD in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 42
+[25-Aug-2016 17:04:15 Etc/GMT] PHP Notice:  Undefined variable: host in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 46
+[25-Aug-2016 17:04:15 Etc/GMT] PHP Notice:  Undefined variable: user in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 47
+[25-Aug-2016 17:04:15 Etc/GMT] PHP Notice:  Undefined variable: pass in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 48
+[25-Aug-2016 17:04:15 Etc/GMT] PHP Notice:  Undefined variable: database in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 49
+[25-Aug-2016 17:04:15 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'oxywelqx'@'localhost' (using password: NO)' in /home/oxywelqx/public_html/droid/pocket/core/init.inc.php:29
+Stack trace:
+#0 /home/oxywelqx/public_html/droid/pocket/core/init.inc.php(29): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /home/oxywelqx/public_html/droid/pocket/admin/logout.php(12): include_once('/home/oxywelqx/...')
+#2 {main}
+  thrown in /home/oxywelqx/public_html/droid/pocket/core/init.inc.php on line 29
+[25-Aug-2016 17:06:20 Etc/GMT] PHP Warning:  include_once(connect_database.php): failed to open stream: No such file or directory in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 12
+[25-Aug-2016 17:06:20 Etc/GMT] PHP Warning:  include_once(): Failed opening 'connect_database.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 12
+[25-Aug-2016 17:06:20 Etc/GMT] PHP Notice:  Undefined variable: APP_NAME in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 22
+[25-Aug-2016 17:06:20 Etc/GMT] PHP Notice:  Undefined variable: APP_TITLE in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 23
+[25-Aug-2016 17:06:20 Etc/GMT] PHP Notice:  Undefined variable: APP_HOST in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 27
+[25-Aug-2016 17:06:20 Etc/GMT] PHP Notice:  Undefined variable: Server_URL in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 28
+[25-Aug-2016 17:06:20 Etc/GMT] PHP Notice:  Undefined variable: Google_Play_Link in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 29
+[25-Aug-2016 17:06:20 Etc/GMT] PHP Notice:  Undefined variable: Company_URL in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 33
+[25-Aug-2016 17:06:20 Etc/GMT] PHP Notice:  Undefined variable: SMTP_AUTH in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 37
+[25-Aug-2016 17:06:20 Etc/GMT] PHP Notice:  Undefined variable: SMTP_SECURE in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 38
+[25-Aug-2016 17:06:20 Etc/GMT] PHP Notice:  Undefined variable: SMTP_PORT in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 39
+[25-Aug-2016 17:06:20 Etc/GMT] PHP Notice:  Undefined variable: SMTP_EMAIL in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 40
+[25-Aug-2016 17:06:20 Etc/GMT] PHP Notice:  Undefined variable: SMTP_USERNAME in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 41
+[25-Aug-2016 17:06:20 Etc/GMT] PHP Notice:  Undefined variable: SMTP_PASSWORD in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 42
+[25-Aug-2016 17:06:20 Etc/GMT] PHP Notice:  Undefined variable: host in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 46
+[25-Aug-2016 17:06:20 Etc/GMT] PHP Notice:  Undefined variable: user in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 47
+[25-Aug-2016 17:06:20 Etc/GMT] PHP Notice:  Undefined variable: pass in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 48
+[25-Aug-2016 17:06:20 Etc/GMT] PHP Notice:  Undefined variable: database in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 49
+[25-Aug-2016 17:06:20 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'oxywelqx'@'localhost' (using password: NO)' in /home/oxywelqx/public_html/droid/pocket/core/init.inc.php:29
+Stack trace:
+#0 /home/oxywelqx/public_html/droid/pocket/core/init.inc.php(29): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /home/oxywelqx/public_html/droid/pocket/admin/logout.php(12): include_once('/home/oxywelqx/...')
+#2 {main}
+  thrown in /home/oxywelqx/public_html/droid/pocket/core/init.inc.php on line 29
+[25-Aug-2016 17:06:37 Etc/GMT] PHP Warning:  include_once(connect_database.php): failed to open stream: No such file or directory in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 12
+[25-Aug-2016 17:06:37 Etc/GMT] PHP Warning:  include_once(): Failed opening 'connect_database.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 12
+[25-Aug-2016 17:06:37 Etc/GMT] PHP Notice:  Undefined variable: APP_NAME in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 22
+[25-Aug-2016 17:06:37 Etc/GMT] PHP Notice:  Undefined variable: APP_TITLE in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 23
+[25-Aug-2016 17:06:37 Etc/GMT] PHP Notice:  Undefined variable: APP_HOST in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 27
+[25-Aug-2016 17:06:37 Etc/GMT] PHP Notice:  Undefined variable: Server_URL in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 28
+[25-Aug-2016 17:06:37 Etc/GMT] PHP Notice:  Undefined variable: Google_Play_Link in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 29
+[25-Aug-2016 17:06:37 Etc/GMT] PHP Notice:  Undefined variable: Company_URL in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 33
+[25-Aug-2016 17:06:37 Etc/GMT] PHP Notice:  Undefined variable: SMTP_AUTH in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 37
+[25-Aug-2016 17:06:37 Etc/GMT] PHP Notice:  Undefined variable: SMTP_SECURE in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 38
+[25-Aug-2016 17:06:37 Etc/GMT] PHP Notice:  Undefined variable: SMTP_PORT in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 39
+[25-Aug-2016 17:06:37 Etc/GMT] PHP Notice:  Undefined variable: SMTP_EMAIL in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 40
+[25-Aug-2016 17:06:37 Etc/GMT] PHP Notice:  Undefined variable: SMTP_USERNAME in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 41
+[25-Aug-2016 17:06:37 Etc/GMT] PHP Notice:  Undefined variable: SMTP_PASSWORD in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 42
+[25-Aug-2016 17:06:37 Etc/GMT] PHP Notice:  Undefined variable: host in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 46
+[25-Aug-2016 17:06:37 Etc/GMT] PHP Notice:  Undefined variable: user in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 47
+[25-Aug-2016 17:06:37 Etc/GMT] PHP Notice:  Undefined variable: pass in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 48
+[25-Aug-2016 17:06:37 Etc/GMT] PHP Notice:  Undefined variable: database in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 49
+[25-Aug-2016 17:06:37 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'oxywelqx'@'localhost' (using password: NO)' in /home/oxywelqx/public_html/droid/pocket/core/init.inc.php:29
+Stack trace:
+#0 /home/oxywelqx/public_html/droid/pocket/core/init.inc.php(29): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /home/oxywelqx/public_html/droid/pocket/admin/login.php(12): include_once('/home/oxywelqx/...')
+#2 {main}
+  thrown in /home/oxywelqx/public_html/droid/pocket/core/init.inc.php on line 29
+[25-Aug-2016 17:06:43 Etc/GMT] PHP Warning:  include_once(connect_database.php): failed to open stream: No such file or directory in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 12
+[25-Aug-2016 17:06:43 Etc/GMT] PHP Warning:  include_once(): Failed opening 'connect_database.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 12
+[25-Aug-2016 17:06:43 Etc/GMT] PHP Notice:  Undefined variable: APP_NAME in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 22
+[25-Aug-2016 17:06:43 Etc/GMT] PHP Notice:  Undefined variable: APP_TITLE in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 23
+[25-Aug-2016 17:06:43 Etc/GMT] PHP Notice:  Undefined variable: APP_HOST in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 27
+[25-Aug-2016 17:06:43 Etc/GMT] PHP Notice:  Undefined variable: Server_URL in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 28
+[25-Aug-2016 17:06:43 Etc/GMT] PHP Notice:  Undefined variable: Google_Play_Link in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 29
+[25-Aug-2016 17:06:43 Etc/GMT] PHP Notice:  Undefined variable: Company_URL in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 33
+[25-Aug-2016 17:06:43 Etc/GMT] PHP Notice:  Undefined variable: SMTP_AUTH in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 37
+[25-Aug-2016 17:06:43 Etc/GMT] PHP Notice:  Undefined variable: SMTP_SECURE in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 38
+[25-Aug-2016 17:06:43 Etc/GMT] PHP Notice:  Undefined variable: SMTP_PORT in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 39
+[25-Aug-2016 17:06:43 Etc/GMT] PHP Notice:  Undefined variable: SMTP_EMAIL in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 40
+[25-Aug-2016 17:06:43 Etc/GMT] PHP Notice:  Undefined variable: SMTP_USERNAME in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 41
+[25-Aug-2016 17:06:43 Etc/GMT] PHP Notice:  Undefined variable: SMTP_PASSWORD in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 42
+[25-Aug-2016 17:06:43 Etc/GMT] PHP Notice:  Undefined variable: host in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 46
+[25-Aug-2016 17:06:43 Etc/GMT] PHP Notice:  Undefined variable: user in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 47
+[25-Aug-2016 17:06:43 Etc/GMT] PHP Notice:  Undefined variable: pass in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 48
+[25-Aug-2016 17:06:43 Etc/GMT] PHP Notice:  Undefined variable: database in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 49
+[25-Aug-2016 17:06:43 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'oxywelqx'@'localhost' (using password: NO)' in /home/oxywelqx/public_html/droid/pocket/core/init.inc.php:29
+Stack trace:
+#0 /home/oxywelqx/public_html/droid/pocket/core/init.inc.php(29): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /home/oxywelqx/public_html/droid/pocket/admin/login.php(12): include_once('/home/oxywelqx/...')
+#2 {main}
+  thrown in /home/oxywelqx/public_html/droid/pocket/core/init.inc.php on line 29
+[25-Aug-2016 17:06:51 Etc/GMT] PHP Warning:  include_once(connect_database.php): failed to open stream: No such file or directory in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 12
+[25-Aug-2016 17:06:51 Etc/GMT] PHP Warning:  include_once(): Failed opening 'connect_database.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 12
+[25-Aug-2016 17:06:51 Etc/GMT] PHP Notice:  Undefined variable: APP_NAME in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 22
+[25-Aug-2016 17:06:51 Etc/GMT] PHP Notice:  Undefined variable: APP_TITLE in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 23
+[25-Aug-2016 17:06:51 Etc/GMT] PHP Notice:  Undefined variable: APP_HOST in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 27
+[25-Aug-2016 17:06:51 Etc/GMT] PHP Notice:  Undefined variable: Server_URL in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 28
+[25-Aug-2016 17:06:51 Etc/GMT] PHP Notice:  Undefined variable: Google_Play_Link in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 29
+[25-Aug-2016 17:06:51 Etc/GMT] PHP Notice:  Undefined variable: Company_URL in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 33
+[25-Aug-2016 17:06:51 Etc/GMT] PHP Notice:  Undefined variable: SMTP_AUTH in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 37
+[25-Aug-2016 17:06:51 Etc/GMT] PHP Notice:  Undefined variable: SMTP_SECURE in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 38
+[25-Aug-2016 17:06:51 Etc/GMT] PHP Notice:  Undefined variable: SMTP_PORT in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 39
+[25-Aug-2016 17:06:51 Etc/GMT] PHP Notice:  Undefined variable: SMTP_EMAIL in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 40
+[25-Aug-2016 17:06:51 Etc/GMT] PHP Notice:  Undefined variable: SMTP_USERNAME in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 41
+[25-Aug-2016 17:06:51 Etc/GMT] PHP Notice:  Undefined variable: SMTP_PASSWORD in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 42
+[25-Aug-2016 17:06:51 Etc/GMT] PHP Notice:  Undefined variable: host in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 46
+[25-Aug-2016 17:06:51 Etc/GMT] PHP Notice:  Undefined variable: user in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 47
+[25-Aug-2016 17:06:51 Etc/GMT] PHP Notice:  Undefined variable: pass in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 48
+[25-Aug-2016 17:06:51 Etc/GMT] PHP Notice:  Undefined variable: database in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 49
+[25-Aug-2016 17:06:51 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'oxywelqx'@'localhost' (using password: NO)' in /home/oxywelqx/public_html/droid/pocket/core/init.inc.php:29
+Stack trace:
+#0 /home/oxywelqx/public_html/droid/pocket/core/init.inc.php(29): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /home/oxywelqx/public_html/droid/pocket/admin/login.php(12): include_once('/home/oxywelqx/...')
+#2 {main}
+  thrown in /home/oxywelqx/public_html/droid/pocket/core/init.inc.php on line 29
+[25-Aug-2016 17:08:16 Etc/GMT] PHP Warning:  include_once(connect_database.php): failed to open stream: No such file or directory in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 12
+[25-Aug-2016 17:08:16 Etc/GMT] PHP Warning:  include_once(): Failed opening 'connect_database.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 12
+[25-Aug-2016 17:08:16 Etc/GMT] PHP Notice:  Undefined variable: APP_NAME in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 22
+[25-Aug-2016 17:08:16 Etc/GMT] PHP Notice:  Undefined variable: APP_TITLE in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 23
+[25-Aug-2016 17:08:16 Etc/GMT] PHP Notice:  Undefined variable: APP_HOST in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 27
+[25-Aug-2016 17:08:16 Etc/GMT] PHP Notice:  Undefined variable: Server_URL in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 28
+[25-Aug-2016 17:08:16 Etc/GMT] PHP Notice:  Undefined variable: Google_Play_Link in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 29
+[25-Aug-2016 17:08:16 Etc/GMT] PHP Notice:  Undefined variable: Company_URL in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 33
+[25-Aug-2016 17:08:16 Etc/GMT] PHP Notice:  Undefined variable: SMTP_AUTH in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 37
+[25-Aug-2016 17:08:16 Etc/GMT] PHP Notice:  Undefined variable: SMTP_SECURE in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 38
+[25-Aug-2016 17:08:16 Etc/GMT] PHP Notice:  Undefined variable: SMTP_PORT in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 39
+[25-Aug-2016 17:08:16 Etc/GMT] PHP Notice:  Undefined variable: SMTP_EMAIL in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 40
+[25-Aug-2016 17:08:16 Etc/GMT] PHP Notice:  Undefined variable: SMTP_USERNAME in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 41
+[25-Aug-2016 17:08:16 Etc/GMT] PHP Notice:  Undefined variable: SMTP_PASSWORD in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 42
+[25-Aug-2016 17:08:16 Etc/GMT] PHP Notice:  Undefined variable: host in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 46
+[25-Aug-2016 17:08:16 Etc/GMT] PHP Notice:  Undefined variable: user in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 47
+[25-Aug-2016 17:08:16 Etc/GMT] PHP Notice:  Undefined variable: pass in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 48
+[25-Aug-2016 17:08:16 Etc/GMT] PHP Notice:  Undefined variable: database in /home/oxywelqx/public_html/droid/pocket/config/db.inc.php on line 49
+[25-Aug-2016 17:08:16 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'oxywelqx'@'localhost' (using password: NO)' in /home/oxywelqx/public_html/droid/pocket/core/init.inc.php:29
+Stack trace:
+#0 /home/oxywelqx/public_html/droid/pocket/core/init.inc.php(29): PDO->__construct('mysql:host=;dbn...', NULL, NULL, Array)
+#1 /home/oxywelqx/public_html/droid/pocket/admin/login.php(12): include_once('/home/oxywelqx/...')
+#2 {main}
+  thrown in /home/oxywelqx/public_html/droid/pocket/core/init.inc.php on line 29
+[28-Aug-2016 17:24:15 Etc/GMT] PHP Notice:  Undefined index: error in /home/oxywelqx/public_html/droid/pocket/admin/profile.php on line 73
+[28-Aug-2016 17:24:15 Etc/GMT] PHP Notice:  Undefined index: username in /home/oxywelqx/public_html/droid/pocket/admin/profile.php on line 88
+[28-Aug-2016 17:24:15 Etc/GMT] PHP Notice:  Undefined index: username in /home/oxywelqx/public_html/droid/pocket/admin/profile.php on line 127
+[28-Aug-2016 17:24:15 Etc/GMT] PHP Notice:  Undefined index: fullname in /home/oxywelqx/public_html/droid/pocket/admin/profile.php on line 132
+[28-Aug-2016 17:24:15 Etc/GMT] PHP Notice:  Undefined index: email in /home/oxywelqx/public_html/droid/pocket/admin/profile.php on line 137
+[28-Aug-2016 17:24:15 Etc/GMT] PHP Notice:  Undefined index: ip_addr in /home/oxywelqx/public_html/droid/pocket/admin/profile.php on line 142
+[28-Aug-2016 17:24:15 Etc/GMT] PHP Notice:  Undefined index: regtime in /home/oxywelqx/public_html/droid/pocket/admin/profile.php on line 148
+[28-Aug-2016 17:24:15 Etc/GMT] PHP Notice:  Undefined index: state in /home/oxywelqx/public_html/droid/pocket/admin/profile.php on line 156
+[28-Aug-2016 17:24:15 Etc/GMT] PHP Notice:  Undefined index: state in /home/oxywelqx/public_html/droid/pocket/admin/profile.php on line 172
+[28-Aug-2016 17:24:15 Etc/GMT] PHP Notice:  Undefined index: id in /home/oxywelqx/public_html/droid/pocket/admin/profile.php on line 175
+[28-Aug-2016 17:24:15 Etc/GMT] PHP Notice:  Undefined index: id in /home/oxywelqx/public_html/droid/pocket/admin/profile.php on line 186
+[28-Aug-2016 17:24:15 Etc/GMT] PHP Notice:  Undefined index: id in /home/oxywelqx/public_html/droid/pocket/admin/profile.php on line 198
+[30-Aug-2016 02:56:51 Etc/GMT] PHP Notice:  Undefined index: id in /home/oxywelqx/public_html/droid/pocket/admin/profile.php on line 48
+[30-Aug-2016 02:56:51 Etc/GMT] PHP Notice:  Undefined index: username in /home/oxywelqx/public_html/droid/pocket/admin/profile.php on line 88
+[30-Aug-2016 02:56:51 Etc/GMT] PHP Notice:  Undefined index: username in /home/oxywelqx/public_html/droid/pocket/admin/profile.php on line 127
+[30-Aug-2016 02:56:51 Etc/GMT] PHP Notice:  Undefined index: fullname in /home/oxywelqx/public_html/droid/pocket/admin/profile.php on line 132
+[30-Aug-2016 02:56:51 Etc/GMT] PHP Notice:  Undefined index: email in /home/oxywelqx/public_html/droid/pocket/admin/profile.php on line 137
+[30-Aug-2016 02:56:51 Etc/GMT] PHP Notice:  Undefined index: ip_addr in /home/oxywelqx/public_html/droid/pocket/admin/profile.php on line 142
+[30-Aug-2016 02:56:51 Etc/GMT] PHP Notice:  Undefined index: regtime in /home/oxywelqx/public_html/droid/pocket/admin/profile.php on line 148
+[30-Aug-2016 02:56:51 Etc/GMT] PHP Notice:  Undefined index: state in /home/oxywelqx/public_html/droid/pocket/admin/profile.php on line 156
+[30-Aug-2016 02:56:51 Etc/GMT] PHP Notice:  Undefined index: state in /home/oxywelqx/public_html/droid/pocket/admin/profile.php on line 172
+[30-Aug-2016 02:56:51 Etc/GMT] PHP Notice:  Undefined index: id in /home/oxywelqx/public_html/droid/pocket/admin/profile.php on line 175
+[30-Aug-2016 02:56:51 Etc/GMT] PHP Notice:  Undefined index: id in /home/oxywelqx/public_html/droid/pocket/admin/profile.php on line 186
+[30-Aug-2016 02:56:51 Etc/GMT] PHP Notice:  Undefined index: id in /home/oxywelqx/public_html/droid/pocket/admin/profile.php on line 198
+[30-Aug-2016 02:57:33 Etc/GMT] PHP Notice:  Undefined index: id in /home/oxywelqx/public_html/droid/pocket/admin/profile.php on line 40
+[30-Aug-2016 02:57:33 Etc/GMT] PHP Notice:  Undefined index: username in /home/oxywelqx/public_html/droid/pocket/admin/profile.php on line 88
+[30-Aug-2016 02:57:33 Etc/GMT] PHP Notice:  Undefined index: username in /home/oxywelqx/public_html/droid/pocket/admin/profile.php on line 127
+[30-Aug-2016 02:57:33 Etc/GMT] PHP Notice:  Undefined index: fullname in /home/oxywelqx/public_html/droid/pocket/admin/profile.php on line 132
+[30-Aug-2016 02:57:33 Etc/GMT] PHP Notice:  Undefined index: email in /home/oxywelqx/public_html/droid/pocket/admin/profile.php on line 137
+[30-Aug-2016 02:57:33 Etc/GMT] PHP Notice:  Undefined index: ip_addr in /home/oxywelqx/public_html/droid/pocket/admin/profile.php on line 142
+[30-Aug-2016 02:57:33 Etc/GMT] PHP Notice:  Undefined index: regtime in /home/oxywelqx/public_html/droid/pocket/admin/profile.php on line 148
+[30-Aug-2016 02:57:33 Etc/GMT] PHP Notice:  Undefined index: state in /home/oxywelqx/public_html/droid/pocket/admin/profile.php on line 156
+[30-Aug-2016 02:57:33 Etc/GMT] PHP Notice:  Undefined index: state in /home/oxywelqx/public_html/droid/pocket/admin/profile.php on line 172
+[30-Aug-2016 02:57:33 Etc/GMT] PHP Notice:  Undefined index: id in /home/oxywelqx/public_html/droid/pocket/admin/profile.php on line 175
+[30-Aug-2016 02:57:33 Etc/GMT] PHP Notice:  Undefined index: id in /home/oxywelqx/public_html/droid/pocket/admin/profile.php on line 186
+[30-Aug-2016 02:57:33 Etc/GMT] PHP Notice:  Undefined index: id in /home/oxywelqx/public_html/droid/pocket/admin/profile.php on line 198
+[28-Sep-2016 17:08:10 Etc/GMT] PHP Notice:  Undefined index: error in /home/oxywelqx/public_html/droid/pocket/admin/profile.php on line 73
+[28-Sep-2016 17:08:10 Etc/GMT] PHP Notice:  Undefined index: username in /home/oxywelqx/public_html/droid/pocket/admin/profile.php on line 88
+[28-Sep-2016 17:08:10 Etc/GMT] PHP Notice:  Undefined index: username in /home/oxywelqx/public_html/droid/pocket/admin/profile.php on line 127
+[28-Sep-2016 17:08:10 Etc/GMT] PHP Notice:  Undefined index: fullname in /home/oxywelqx/public_html/droid/pocket/admin/profile.php on line 132
+[28-Sep-2016 17:08:10 Etc/GMT] PHP Notice:  Undefined index: email in /home/oxywelqx/public_html/droid/pocket/admin/profile.php on line 137
+[28-Sep-2016 17:08:10 Etc/GMT] PHP Notice:  Undefined index: ip_addr in /home/oxywelqx/public_html/droid/pocket/admin/profile.php on line 142
+[28-Sep-2016 17:08:10 Etc/GMT] PHP Notice:  Undefined index: regtime in /home/oxywelqx/public_html/droid/pocket/admin/profile.php on line 148
+[28-Sep-2016 17:08:10 Etc/GMT] PHP Notice:  Undefined index: state in /home/oxywelqx/public_html/droid/pocket/admin/profile.php on line 156
+[28-Sep-2016 17:08:10 Etc/GMT] PHP Notice:  Undefined index: state in /home/oxywelqx/public_html/droid/pocket/admin/profile.php on line 172
+[28-Sep-2016 17:08:10 Etc/GMT] PHP Notice:  Undefined index: id in /home/oxywelqx/public_html/droid/pocket/admin/profile.php on line 175
+[28-Sep-2016 17:08:10 Etc/GMT] PHP Notice:  Undefined index: id in /home/oxywelqx/public_html/droid/pocket/admin/profile.php on line 186
+[28-Sep-2016 17:08:10 Etc/GMT] PHP Notice:  Undefined index: id in /home/oxywelqx/public_html/droid/pocket/admin/profile.php on line 198

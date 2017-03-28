@@ -1,0 +1,49 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingBottom="10dp"
+    android:paddingLeft="8dp"
+    android:paddingRight="8dp"
+    android:paddingTop="10dp" >
+
+    <TextView
+        android:id="@+id/lvitem_tv_ext_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="10dp"
+        android:padding="10dp"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/lvitem_tv_ext_points"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="10dp"
+        android:padding="10dp"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/lvitem_tv_ext_desc"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_toLeftOf="@id/lvitem_tv_ext_points"
+        android:layout_toRightOf="@id/lvitem_tv_ext_id"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/lvitem_tv_ext_status"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/lvitem_tv_ext_desc"
+        android:layout_toLeftOf="@id/lvitem_tv_ext_points"
+        android:layout_toRightOf="@id/lvitem_tv_ext_id"
+        android:textColor="#C4C4C4"
+        android:textSize="12sp" />
+
+</RelativeLayout>

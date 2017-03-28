@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="spring">mùa xuân</string>
+    <string name="summer">mùa hè</string>
+    <string name="autumn">mùa thu</string>
+    <string name="winter">mùa đông</string>
+</resources>

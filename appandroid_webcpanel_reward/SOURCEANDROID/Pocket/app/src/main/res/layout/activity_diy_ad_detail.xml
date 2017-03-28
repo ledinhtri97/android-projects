@@ -1,0 +1,116 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/diy_demo_bg"
+    android:padding="10dp"
+    android:scrollbarStyle="outsideOverlay" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+
+            <ImageView
+                android:id="@+id/iv_detailpage_appicon"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_marginRight="5dp"
+                android:src="@drawable/icon" />
+
+            <TextView
+                android:id="@+id/tv_detailpage_appstyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:gravity="right"
+                android:textColor="#008200"
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/tv_detailpage_appname"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toLeftOf="@+id/tv_detailpage_appstyle"
+                android:layout_toRightOf="@+id/iv_detailpage_appicon"
+                android:textColor="#149CF3"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/tv_detailpage_appsize"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@id/tv_detailpage_appname"
+                android:layout_below="@+id/tv_detailpage_appname"
+                android:layout_toLeftOf="@+id/tv_detailpage_appstyle"
+                android:textColor="#93C763"
+                android:textSize="13sp" />
+
+            <TextView
+                android:id="@+id/tv_detailpage_apppvn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@id/tv_detailpage_appsize"
+                android:layout_below="@+id/tv_detailpage_appsize"
+                android:layout_toLeftOf="@+id/tv_detailpage_appstyle"
+                android:textColor="#808080"
+                android:textSize="12sp" />
+        </RelativeLayout>
+
+        <com.youmi.android.overblue.demo.util.NoScrollListView
+            android:id="@+id/detailpage_listview"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/ym_round_rectangle_bg_normal"
+            android:visibility="gone" />
+
+        <Button
+            android:id="@+id/btn_detailpage_open_or_install"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/btn_round_rectangle_bg"
+            android:padding="5dp"
+            android:textSize="16sp" />
+
+        <ProgressBar
+            android:id="@+id/pb_download"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/tv_detailpage_appdesc"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:singleLine="false"
+            android:textColor="#03549E"
+            android:textSize="12sp" />
+
+        <HorizontalScrollView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:scrollbars="none" >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <com.youmi.android.overblue.demo.util.NoScrollGridView
+                    android:id="@+id/detailpage_gridView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:visibility="gone" />
+            </LinearLayout>
+        </HorizontalScrollView>
+    </LinearLayout>
+
+</ScrollView>
