@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LearningOptionMenu</string>
+    <string name="mau_xanh">Mau Xanh</string>
+    <string name="mau_do">Mau Do</string>
+    <string name="mau_vang">Mau Vang</string>
+    <string name="file">file</string>
+    <string name="create_new">create_new</string>
+    <string name="open">open</string>
+</resources>

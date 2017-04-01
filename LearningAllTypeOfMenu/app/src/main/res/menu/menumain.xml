@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group
+        android:id="@+id/main_menu_group">
+        <item
+            android:id="@+id/mnuMauXanh"
+            app:showAsAction="withText"
+            android:title="@string/mau_xanh"
+            android:icon="@drawable/h1"/>
+        <item
+            android:id="@+id/mnuMauDo"
+            android:title="@string/mau_do"
+            app:showAsAction="withText"
+            android:icon="@drawable/h2"/>
+        <item
+            android:id="@+id/mnuMauVang"
+            app:showAsAction="withText"
+            android:title="@string/mau_vang"
+            android:icon="@drawable/h3"/>
+        <item
+            android:id="@+id/file"
+            android:title="@string/file">
+            <!--file submenu -->
+            <menu>
+                <item android:id="@+id/create_new"
+                    android:title="@string/create_new" />
+                <item android:id="@+id/open"
+                    android:title="@string/open" />
+            </menu>
+        </item>
+    </group>
+</menu>

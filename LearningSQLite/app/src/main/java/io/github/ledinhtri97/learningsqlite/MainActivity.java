@@ -58,7 +58,7 @@ public class MainActivity extends AppCompatActivity {
             String orderBy)*/
         database = openOrCreateDatabase(DATABASE_NAME, MODE_PRIVATE, null);
         Cursor cursor = database.query("Contact", null, null, null, null, null, null);
-        /**
+        /** \/*SELECT*\/
          * Cursor cursor = database.rawQuery("select * from Contact", null);
          * */
 
@@ -128,39 +128,61 @@ public class MainActivity extends AppCompatActivity {
         btnThem.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                ContentValues row = new ContentValues();
-                Random rd = new Random();
-                int ma = rd.nextInt(100);
-                row.put("Ma", ma);
-                row.put("Ten", txtTen.getText().toString());
-                row.put("DienThoai", txtPhone.getText().toString());
-                long r = database.insert("Contact", null, row);
-                if(r==-1)
-                    Toast.makeText(MainActivity.this, "Them that bai: " + ma
-                            + txtTen.getText().toString()+ txtPhone.getText().toString()
-                            , Toast.LENGTH_SHORT).show();
-                else
-                    Toast.makeText(MainActivity.this, "Them thanh cong", Toast.LENGTH_SHORT).show();
-                showAllContactOnListView();
+                insertValuesToDatabase();
             }
         });
         lvDanhBa.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-
-                Intent intent = new Intent(MainActivity.this, Main2Activity.class);
-                startActivity(intent);
-
-                ContentValues row= new ContentValues();
-                row.put("Ten", txtTen.getText().toString());
-                row.put("DienThoai", txtPhone.getText().toString());
-                database.update("Contact", row, "ma=?", new String[]{("1")});
-                showAllContactOnListView();
+                updateValuesToDatabase();
             }
         });
     }
 
-/**    public void screen2 (View view) {
+    /*UPDATE*/
+    private void updateValuesToDatabase() {
+        Intent intent = new Intent(MainActivity.this, Main2Activity.class);
+        startActivity(intent);
+
+        ContentValues row= new ContentValues();
+        row.put("Ten", txtTen.getText().toString());
+        row.put("DienThoai", txtPhone.getText().toString());
+        database.update("Contact", row, "ma=?", new String[]{("1")});
+        showAllContactOnListView();
+    }
+
+    /*DELETE*/
+    private void deleleValuesInDatabase(){
+        //Delete all values in TABLE
+        /**
+         * database.delete("TABLE_NAME", null, null);
+         * */
+        String idCanXoa ="TEN ma khoa chinh value can xoa";
+        database.delete("Contact", "ma=?", new String[] {idCanXoa});
+
+    }
+
+    /*INSERT*/
+    private void insertValuesToDatabase() {
+        ContentValues row = new ContentValues();
+        Random rd = new Random();
+        int ma = rd.nextInt(100);
+        row.put("Ma", ma);
+        row.put("Ten", txtTen.getText().toString());
+        row.put("DienThoai", txtPhone.getText().toString());
+        long r = database.insert("Contact", null, row);
+        if(r==-1)
+            Toast.makeText(MainActivity.this,
+                    "Them that bai: " + ma
+                            + txtTen.getText().toString()
+                            + txtPhone.getText().toString()
+                    , Toast.LENGTH_SHORT).show();
+        else
+            Toast.makeText(MainActivity.this, "Them thanh cong", Toast.LENGTH_SHORT).show();
+        showAllContactOnListView();
+    }
+
+    /**    public void screen2 (View view) {
 
         final AlertDialog.Builder builder = new AlertDialog.Builder(this);
         builder.setTitle("screen2");
@@ -178,16 +200,16 @@ public class MainActivity extends AppCompatActivity {
     private void addControls() {
         lvDanhBa = (ListView) findViewById(R.id.lvDanhBa);
         dsdanhBa = new ArrayList<>();
-        adapterDanhBa = new ArrayAdapter<String>(MainActivity.this,
+        adapterDanhBa = new ArrayAdapter<String>(
+                MainActivity.this,
                 android.R.layout.simple_list_item_1,
-                dsdanhBa);
-        lvDanhBa.setAdapter(adapterDanhBa);
+                dsdanhBa
+        );
 
+        lvDanhBa.setAdapter(adapterDanhBa);
 
         txtPhone= (EditText) findViewById(R.id.txtPhone);
         txtTen= (EditText) findViewById(R.id.txtTen);
         btnThem= (Button) findViewById(R.id.btnThem);
-
-
     }
 }

@@ -20,7 +20,7 @@ import io.github.ledinhtri97.model.NhanVien;
 public class MainActivity extends AppCompatActivity {
 
     /**Chu y khi dung control autocompletextview can them thuoc tinh
-     * android:completionThreshold="1"
+     * android:completionThreshold="1" trong xml
      * thuoc tinh nay dung de so ky tu khi nguoi dung go thi se xuat hien goi y
      * tham so dua vao khong duoc la so 0
      * */
